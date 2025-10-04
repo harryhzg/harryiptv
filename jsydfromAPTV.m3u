@@ -63,6 +63,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="央视频道",兵器科技
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png" group-title="卫视频道",凤凰卫视香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="卫视频道",凤凰卫视中文
@@ -147,10 +148,11 @@ http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南京少儿.png" group-title="卫视频道",南京少儿
 http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K8K频道",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="4K8K频道",北京纪实科教8K
-http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="4K8K频道",江苏卫视4K
+http://ott.mobaibox.com/PLTV/3/224/3221228861/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="4K8K频道",江苏卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="4K8K频道",广东卫视4K
@@ -163,12 +165,15 @@ http://ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" group-title="4K8K频道",CCTV8K
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="4K8K频道",北京纪实科教8K
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纯享4K.png" group-title="4K8K频道",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/4K修复.png" group-title="4K8K频道",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕4K.png" group-title="4K8K频道",咪咕4K
 http://gslbserv.itv.cmvideo.cn/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品体育.png" group-title="🏀体育频道",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
@@ -179,6 +184,7 @@ http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="🏀体育频道",睛彩青少
 http://ott.mobaibox.com/PLTV/4/224/3221228427/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
@@ -193,6 +199,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV古装剧场.png" group-title="🎬电影频道",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🎥咪咕频道",咪咕直播1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🎥咪咕频道",咪咕直播1
@@ -257,6 +264,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕.png" group-title="🎥咪咕频道",咪咕直播9
 http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV精品萌宠.png" group-title="NewTV频道",NEWTV精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV家庭剧场.png" group-title="NewTV频道",NEWTV家庭剧场
@@ -273,6 +281,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NEWTV怡伴健康.png" group-title="NewTV频道",NEWTV怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/精品剧场.png" group-title="iHOT频道",精品剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动作电影.png" group-title="iHOT频道",动作电影
@@ -339,6 +348,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228582/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MV频道.png" group-title="iHOT频道",MV频道
 http://ott.mobaibox.com/PLTV/4/224/3221228815/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏文艺广播FM91.4.png" group-title="广播Radio",江苏文艺广播FM91.4
 http://ott.mobaibox.com/PLTV/1/224/3221227987/1.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏健康广播FM100.5.png" group-title="广播Radio",江苏健康广播FM100.5
