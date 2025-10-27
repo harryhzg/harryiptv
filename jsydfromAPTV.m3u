@@ -134,7 +134,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无锡新闻综合.png" group-title="卫视频道",无锡新闻综合
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221228103/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/gsls200808/tv-logo/raw/master/江苏影视.png" group-title="卫视频道",南京影视
+#EXTINF:-1 tvg-logo="https://gitee.com/gsls200808/tv-logo/raw/master/南京影视.png" group-title="卫视频道",南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南京教科.png" group-title="卫视频道",南京教科
 http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
