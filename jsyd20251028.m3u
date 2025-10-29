@@ -465,6 +465,11 @@ http://ott.mobaibox.com/PLTV/4/224/3221228709/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228715/index.m3u8
 #EXTINF:-1 tvg-name="Live南京 南京长江大桥" tvg-logo="https://live.fanmingming.com/tv/Live南京 南京长江大桥.png" group-title="其它频道",Live南京 南京长江大桥
 http://ott.mobaibox.com/PLTV/4/224/3221228612/index.m3u8
+#EXTINF:-1 tvg-name="Live南京4" tvg-logo="https://live.fanmingming.com/tv/Live南京4.png" group-title="其它频道",Live南京4
+http://ott.mobaibox.com/PLTV/4/224/3221228712/index.m3u8
+#EXTINF:-1 tvg-name="Live南京5" tvg-logo="https://live.fanmingming.com/tv/Live南京5.png" group-title="其它频道",Live南京5
+http://ott.mobaibox.com/PLTV/4/224/3221228753/index.m3u8
+
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="其它频道",哒啵赛事
 http://ott.mobaibox.com/PLTV/4/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-name="棋牌1" tvg-logo="https://live.fanmingming.com/tv/棋牌1.png" group-title="其它频道",棋牌1
