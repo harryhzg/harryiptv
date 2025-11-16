@@ -165,17 +165,17 @@ http://ott.mobaibox.com/PLTV/4/224/3221225935/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228728/index.m3u8
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="卫视频道",江苏综艺
 http://ott.mobaibox.com/PLTV/4/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-name="NBS新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="卫视频道",南京新闻综合
+#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.com/tv/南京新闻综合.png" group-title="卫视频道",南京新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-name="NBS南京教科" tvg-logo="https://live.fanmingming.com/tv/南京教科.png" group-title="卫视频道",南京教科
+#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://live.fanmingming.com/tv/南京教科.png" group-title="卫视频道",南京教科
 http://ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-name="NBS南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="卫视频道",南京少儿
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.fanmingming.com/tv/南京少儿.png" group-title="卫视频道",南京少儿
 http://ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-name="NBS南京影视" tvg-logo="https://live.fanmingming.com/tv/南京影视.png" group-title="卫视频道",南京影视
+#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://live.fanmingming.com/tv/南京影视.png" group-title="卫视频道",南京影视
 http://ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-name="NBS十八生活" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="卫视频道",南京十八
+#EXTINF:-1 tvg-name="南京十八" tvg-logo="https://live.fanmingming.com/tv/南京十八.png" group-title="卫视频道",南京十八
 http://ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-name="NBS文旅记录" tvg-logo="https://live.fanmingming.com/tv/南京文旅记录.png" group-title="卫视频道",南京文旅记录
+#EXTINF:-1 tvg-name="南京文旅记录" tvg-logo="https://live.fanmingming.com/tv/南京文旅记录.png" group-title="卫视频道",南京文旅记录
 http://ott.mobaibox.com/PLTV/4/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://live.fanmingming.com/tv/南通新闻综合.png" group-title="卫视频道",南通新闻综合
 http://ott.mobaibox.com/PLTV/4/224/3221228462/index.m3u8
