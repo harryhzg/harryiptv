@@ -201,27 +201,27 @@ http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 http://223.110.255.207:6610/gitv/live1/G_CCTV-9-AVS-4K264/G_CCTV-9-AVS-4K264/1.m3u8?IASHttpSessionId=OTT329211520260201131708007303
 #EXTINF:-1 tvg-name="CCTV16奥林匹克 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克 4K.png" group-title="4K频道",CCTV16奥林匹克 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K超高清.png" group-title="4K频道",北京卫视4K超高清
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228890/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/东方卫视4K超高清.png" group-title="4K频道",东方卫视4K超高清
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://live.fanmingming.com/tv/东方卫视4K.png" group-title="4K频道",东方卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228956/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K超高清.png" group-title="4K频道",广东卫视4K超高清
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.com/tv/广东卫视4K.png" group-title="4K频道",广东卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228838/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K超高清.png" group-title="4K频道",湖南卫视4K超高清
+#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视4K.png" group-title="4K频道",湖南卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228883/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K超高清.png" group-title="4K频道",江苏卫视4K超高清
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.com/tv/江苏卫视4K.png" group-title="4K频道",江苏卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K超高清.png" group-title="4K频道",山东卫视4K超高清
+#EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="https://live.fanmingming.com/tv/山东卫视4K.png" group-title="4K频道",山东卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228880/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K超高清.png" group-title="4K频道",深圳卫视4K超高清
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视4K.png" group-title="4K频道",深圳卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K超高清.png" group-title="4K频道",四川卫视4K超高清
+#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://live.fanmingming.com/tv/四川卫视4K.png" group-title="4K频道",四川卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K超高清.png" group-title="4K频道",浙江卫视4K超高清
+#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技 4K" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技 4K.png" group-title="4K频道",睛彩竞技 4K
+#EXTINF:-1 tvg-name="睛彩竞技4K" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技4K.png" group-title="4K频道",睛彩竞技4K
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-#EXTINF:-1 tvg-name="睛彩蓝球 4K" tvg-logo="https://live.fanmingming.com/tv/睛彩蓝球 4K.png" group-title="4K频道",睛彩蓝球 4K
+#EXTINF:-1 tvg-name="睛彩蓝球4K" tvg-logo="https://live.fanmingming.com/tv/睛彩蓝球4K.png" group-title="4K频道",睛彩蓝球4K
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-name="AI直播4K" tvg-logo="https://live.fanmingming.com/tv/AI直播4K.png" group-title="4K频道",AI直播4K
 http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
