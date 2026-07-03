@@ -219,9 +219,9 @@ http://ott.mobaibox.com/PLTV/4/224/3221228835/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228877/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://live.fanmingming.com/tv/浙江卫视4K.png" group-title="4K频道",浙江卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228900/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技4K" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技4K.png" group-title="4K频道",睛彩竞技4K
+#EXTINF:-1 tvg-name="睛彩竞技4K" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="4K频道",睛彩竞技
 http://ott.mobaibox.com/PLTV/4/224/3221228679/index.m3u8
-#EXTINF:-1 tvg-name="睛彩蓝球4K" tvg-logo="https://live.fanmingming.com/tv/睛彩蓝球4K.png" group-title="4K频道",睛彩蓝球4K
+#EXTINF:-1 tvg-name="睛彩蓝球4K" tvg-logo="https://live.fanmingming.com/tv/睛彩蓝球.png" group-title="4K频道",睛彩蓝球
 http://ott.mobaibox.com/PLTV/4/224/3221228682/index.m3u8
 #EXTINF:-1 tvg-name="AI直播4K" tvg-logo="https://live.fanmingming.com/tv/AI直播4K.png" group-title="4K频道",AI直播4K
 http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
