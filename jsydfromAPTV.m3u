@@ -197,6 +197,8 @@ http://ott.mobaibox.com/PLTV/4/224/3221228589/index.m3u8
 http://ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV5 4K.png" group-title="4K频道",CCTV5 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+ 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV5+ 4K.png" group-title="4K频道",CCTV5+ 4K
+http://223.110.255.207:6610/gitv/live1/G_CCTV-9-AVS-4K264/G_CCTV-9-AVS-4K264/1.m3u8?IASHttpSessionId=OTT329211520260201131708007303
 #EXTINF:-1 tvg-name="CCTV16奥林匹克 4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16奥林匹克 4K.png" group-title="4K频道",CCTV16奥林匹克 4K
 http://ott.mobaibox.com/PLTV/4/224/3221228314/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K超高清.png" group-title="4K频道",北京卫视4K超高清
